@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+This is Nimish
+Welcome to my github profile:
+- Passionate about: JavaScript, Python, and Go.
+- Professional experience in: JavaScript, with expertise in frameworks like React and Redux.
+- Currently improving: TypeScript, advanced types, and Canvas.js.
+- I have done non trivial programming in : c , cpp , bash and java.
+- Language and Frameworks I wish to learn : manim, wasm, webgl/webgpu
+- Topics I wish to explore : Database internals, compilers/interpreters, and system design for highly scalable architectures.
+- My most recent professional experience is in writing code in react for the platform team and optimizing the website to enhance user experience.
 <!--
 **nimishgo/nimishgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
