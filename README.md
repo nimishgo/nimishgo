@@ -8,9 +8,12 @@ Welcome to my github profile:
 - Language and Frameworks I wish to learn : manim, wasm, webgl/webgpu
 - Topics I wish to explore : Database internals, compilers/interpreters, and system design for highly scalable architectures.
 - My most recent professional experience is in writing code in react for the platform team and optimizing the website to enhance user experience.
+
+For more check out : https://www.neoncoder.com
+
 <!--
 **nimishgo/nimishgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+For more check : https://www.neoncoder.com
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
