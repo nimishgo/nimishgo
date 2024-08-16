@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimishgo&hide_progress=true)
 ---
-![nimish's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nimishgo)](https://github.com/nimishgo/github-readme-stats)
+[![nimish's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nimishgo)](https://github.com/nimishgo/github-readme-stats)
 
