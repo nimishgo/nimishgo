@@ -3,7 +3,7 @@ This is Nimish
 Welcome to my github profile:
 - Passionate about: JavaScript, Python, and Go.
 - Professional experience in: JavaScript, with expertise in frameworks like React and Redux.
-- Currently improving: TypeScript, advanced types, and Canvas.js.
+- Currently improving: TypeScript.
 - I have done non trivial programming in : c , cpp , bash and java.
 - Language and Frameworks I wish to learn : manim, wasm, webgl/webgpu
 - Topics I wish to explore : Database internals, compilers/interpreters, and system design for highly scalable architectures.
